@@ -1,6 +1,4 @@
-package controller;
-
-import components.ComponentBase;
+package components;
 
 public class ComponentActual extends ComponentBase {
 
